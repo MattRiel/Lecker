@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lecker</string>
+    <string name="capstone_id">from PC628</string>
+    <string name="insert_text_here">Tulis bahan disini . .</string>
+    <string name="btn_submit">Cari</string>
+    <string name="home_text">Selamat datang</string>
+    <string name="steps_headline_text">Langkah pembuatan:</string>
+    <string name="ingredients_headline_text">Bahan:</string>
+</resources>
