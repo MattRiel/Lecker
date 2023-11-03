@@ -1,8 +1,4 @@
 # “ Lecker” Your Personal Recipe Assistant
-## Bangkit Capstone Project PC628
-<p align="center">
-<img style="width:15vw" src="https://github.com/I0719031/Bangkit-Capstone-PC628/blob/main/images/contoh Logo lecker 1.0.png">
-</p>
 
 ### About our App
 "Dari Sabang sampai Merauke" is a really popular Indonesian quote that makes you realize how big Indonesia is. With 1.905 million in km2, it comes with millions of people, tradition and language. With this, it cannot be denied that Indonesia also has thousands of types of food that are unique with each other. Even when the ingredient is the same, different places almost have different steps of how to make it a delicious food. But as globalization comes with this digital era, Nusantara food little by little comes to vanish in public.
